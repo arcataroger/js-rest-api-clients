@@ -5,5 +5,6 @@ export type { ClientConfigOptions } from './generated/Client';
 export * from './buildClient';
 export * from './buildBlockRecord';
 export * from './generateId';
+export * from './datoIdtoUuid';
 export * as SchemaTypes from './generated/SchemaTypes';
 export * as SimpleSchemaTypes from './generated/SimpleSchemaTypes';
